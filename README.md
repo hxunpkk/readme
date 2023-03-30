@@ -19,7 +19,7 @@
 
 4. 데모사이트 이동하기 : <https://hxunpkk.github.io/portfolio1/>
 
-5. 이미지 첨부하기 : ![이미지설명](이미지경로)
+5. 이미지 첨부하기 : 
 ![이미지설명](https://github.com/hxunpkk/portfolio1/blob/main/img/logo.png)
 
 6. 이미지 크기 조절하기 <br>
