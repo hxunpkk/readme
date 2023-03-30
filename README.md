@@ -26,3 +26,14 @@
 <img src ="https://github.com/hxunpkk/portfolio1/blob/main/img/logo.png" width="100px"><br/>
 
 7. 테이블 작성하기
+ ----
+ <table>
+  <tr><td>1</td><td>2</td></tr>
+  <tr><td>3</td><td>4</td></tr>
+  <tr><td>5</td><td>6</td></tr>
+ </table>
+ 
+<details>
+    <summary>이미지 보기</summary>
+    텍스트나 이미지 등 보여주고 싶은 내용
+</details>
